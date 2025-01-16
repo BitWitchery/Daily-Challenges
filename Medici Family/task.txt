@@ -1,0 +1,14 @@
+The Medici Family
+
+Write a function medici_family(relation_name, relation_role) that takes two strings as input: 
+relation_name and relation_role. 
+The function should return True if the given person was a member of the Medici family in 
+Renaissance Italy, and their specific role within the family matches the given role. 
+Otherwise, it should return False.
+
+Information:
+
+    Giovanni di Bicci de' Medici: Founder of the Medici bank in 1397 and patriarch of the Medici family.
+    Lorenzo de' Medici: Powerful Florentine statesman and patron of the arts.
+    Cosimo de' Medici: Prominent Florentine politician and banker, first Medici ruler of Florence in 1434.
+    Piero di Cosimo de' Medici: Son of Co
